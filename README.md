@@ -1,2 +1,2 @@
-# cdc-livro-html-css
+# HTML5 e CSS3
 Código fonte do livro "HTML5 e CSS3 - Domine a web do futuro"
